@@ -32,8 +32,8 @@
                         <include>TestRunner.class</include>
                     </includes>
                     <systemPropertyVariables>
-<!--                        <browser>chrome</browser>-->
-                        <browser>firefox</browser>
+                       <browser>chrome</browser>
+<!--                         <browser>firefox</browser> -->
                     </systemPropertyVariables>
                 </configuration>
             </plugin>
